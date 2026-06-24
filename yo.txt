@@ -1,0 +1,27 @@
+FASE 1 — HTML
+
+index.html
+
+1A. Header (ya hecho, va el componente vacío)
+1B. Hero
+1C. Sección "Conócenos"
+1D. Sección "Algunos trabajos"
+1E. Footer (ya hecho, va el componente vacío)
+1F. Botón flotante WhatsApp
+1G. Dialogs de utilidades
+
+
+mis-trabajos.html
+
+2A. Header
+2B. Banner pequeño
+2C. Grilla de trabajos
+2D. Footer
+
+
+producto.html
+
+3A. Header
+3B. Breadcrumb
+3C. Layout dos columnas
+3D. Footer
